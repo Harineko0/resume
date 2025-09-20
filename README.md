@@ -1,0 +1,88 @@
+
+### **[氏名]**
+[住所] | [電話番号] | [メールアドレス] | [GitHubアカウントのURL] | [LinkedInなどのURL]
+
+---
+
+#### **サマリー**
+
+大阪大学で情報科学を専攻し、ソフトウェアエンジニアリングの理論と実践の両面で経験を積んできました。特に、Flutterを用いたモバイルアプリケーション開発、TypeScriptやGoogle Cloud/Firebaseを活用したバックエンド開発に強みを持っています。LINEヤフー株式会社でのインターンシップでは、ベイズ統計モデルを用いた広告予算の最適化に取り組み、データ駆動での課題解決能力を培いました。また、GDG on Campus Osakaの代表として技術コミュニティを牽引し、イベント企画・運営やプロジェクトマネジメントを通じてリーダーシップを発揮しました。新しい技術への探求心が強く、LLMを活用した個人アプリ開発にも挑戦しています。
+
+---
+
+#### **職務経歴 (インターンシップ・開発協力)**
+
+**LINEヤフー株式会社** | インターンシップ
+*2025年8月 - 2025年9月*
+* Web広告事業における広告予算の自動制御ロジック改善プロジェクトに従事。
+* ベイズ統計モデリングを用いて、予算消化の予測精度を向上させるためのモデルを設計・実装し、広告配信の効率化に貢献。
+* **使用技術:** Python, CmdStan, データ分析関連ライブラリ
+
+**株式会社pixiv** | インターンシップ
+*2025年3月*
+* 新規認証基盤の開発チームにて、WebAuthn Signal APIの実装を担当。
+* モダンな認証技術を導入することで、サービスのセキュリティと利便性の向上に貢献。
+* **使用技術:** PHP, WebAuthn
+
+**Gather, inc.** | ソフトウェアエンジニア (開発協力)
+*2025年1月 - 現在*
+* お出かけ先推薦モバイルアプリの機能開発に参加。
+* Flutterを用いたUI/UXの実装と、Firebase (Firestore, Cloud Functions) を利用したバックエンド機能の開発を担当。
+* **使用技術:** Flutter, Dart, Firebase (Firestore, Authentication, Cloud Functions)
+
+**Ocarry, inc.** | ソフトウェアエンジニア (開発協力)
+*2024年8月 - 2025年3月*
+* 荷物配達モバイルアプリの新規開発に貢献。
+* Flutterを用いたクロスプラットフォームアプリのフロントエンド開発全般を担当。
+* TypeScriptとGoogle Cloud (Cloud Run, Cloud SQL) を用いたバックエンドAPIの設計・開発・保守。
+* **使用技術:** Flutter, Dart, TypeScript, Node.js, Google Cloud, PostgreSQL, Docker
+
+---
+
+#### **リーダーシップ経験**
+
+**GDG on Campus Osaka** | 代表
+*2024年9月 - 2025年8月*
+* Google Developer Groupsの学生向けコミュニティの代表として、活動全般を統括。
+* 年間を通じて[例: 10回以上]の技術勉強会やハンズオンイベントを企画・運営し、[例: 延べ300人以上]の学生エンジニアの学習機会を創出。
+* 複数チームでの開発プロジェクトをマネジメントし、メンバーの技術力向上とプロダクトの完成をサポート。
+
+---
+
+#### **個人プロジェクト・学業**
+
+**Diarlies** (2025年6月 - 現在)
+* LLMを活用し、ユーザーの入力から自動で日記を生成・要約するモバイルアプリケーション。
+* 企画、設計から開発、インフラ構築まで全ての工程を担当。
+* **使用技術:** Flutter, TypeScript, Google Cloud, PostgreSQL, LLM API
+
+**MincraMagics & MincraServer** (2020年 - 2025年)
+* 個人で運営するMinecraftサーバー(MincraServer)向けに、独自の拡張機能(MincraMagics)を5年間にわたり開発・保守。
+* MincraServerではLinux (Ubuntu Server) 環境でのサーバー構築、パフォーマンスチューニング、セキュリティ対策、ユーザーサポートを経験。
+* MincraMagicsではJava (Spigot API) を用いて、多くのユーザーに利用される魔法やアイテムなどの機能を追加。
+* **使用技術:** Java, Spigot API, SQLite, Linux, Ubuntu Server
+
+**その他の開発経験**
+* **大学でのプロジェクト:**
+    * C言語によるオセロAI、シェルスクリプトインタプリタの開発 (2023-2024)
+    * FPGAとVHDLを用いたシングルサイクルプロセッサの設計・実装 (2025)
+* **Webアプリケーション:**
+    * ReactとFirebaseを用いたWebアプリケーション3件（書籍購入アプリ、待ち時間管理アプリ、パン取り置き予約アプリ）の開発経験 (2021-2024)
+
+---
+
+#### **学歴**
+
+**大阪大学 基礎工学部 情報科学科 ソフトウェアコース**
+*2023年4月 - 現在 (卒業見込み)*
+* **関連科目:** ソフトウェアアーキテクチャ、アルゴリズムとデータ構造、コンピュータアーキテクチャ、ソフトウェアテスト、UI/UXデザイン
+
+---
+
+#### **スキル**
+
+* **言語:** Java, TypeScript, Python, Dart, C, PHP, SQL, VHDL
+* **フレームワーク/ライブラリ:** Flutter, React, Node.js, Express, CmdStan
+* **クラウド/インフラ:** Google Cloud (Cloud Run, Cloud SQL, etc.), Firebase (Firestore, Functions, Auth), Linux, Ubuntu Server, Docker
+* **データベース:** PostgreSQL, SQLite, Firestore
+* **その他:** Git, GitHub, CI/CD, ソフトウェアアーキテクチャ, ソフトウェアテスト, UI/UX, アジャイル開発, プロジェクトマネジメント
