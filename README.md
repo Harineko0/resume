@@ -1,9 +1,9 @@
 
 # Resume
 ## Harineko / Yunineko / Sota Suyama
-Email: harineko0927@gmail.com
-GitHub: https://github.com/Harineko0
-LinkedIn: https://www.linkedin.com/in/sota-suyama-375a75302/
+- Email: harineko0927@gmail.com
+- GitHub: https://github.com/Harineko0
+- LinkedIn: https://www.linkedin.com/in/sota-suyama-375a75302/
 
 ## Abstract
 
