@@ -64,6 +64,11 @@ Web Authn Signal API の仕様を W3C のドキュメントや国内/海外の�
 
 Signal API を呼び出すときのユーザーシナリオを考え, UXに配慮した実装となるようにメンターの方と議論し, 用いるAPIを取捨選択して実装に取り組んだ.
 
+### Ocarry, inc. (2024/08-2025/03)
+スタートアップ企業で荷物配達アプリの開発を担当.
+
+機能開発時の
+
 ### MincraServer (2020-現在)
 Minecraft サーバーの運営及び追加機能の開発を担当.
 
@@ -75,7 +80,9 @@ OOP の使い方や Linux コマンドなどを学習した.
 
 ## 自己PR
 
-# Resume
+<hr/>
+
+# Resume ((old)
 - 名前: Sota Suyama
 - Email: harineko0927@gmail.com
 - GitHub: https://github.com/Harineko0
