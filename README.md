@@ -82,6 +82,7 @@ OOP の使い方や Linux コマンドなどを学習した.
 
 <hr/>
 
+<!--
 # Resume ((old)
 - 名前: Sota Suyama
 - Email: harineko0927@gmail.com
@@ -157,3 +158,4 @@ OOP の使い方や Linux コマンドなどを学習した.
 * **クラウド/インフラ:** Google Cloud (Cloud Run, Cloud SQL, etc.), Firebase (Firestore, Functions, Auth), Linux, Ubuntu Server, Docker
 * **データベース:** PostgreSQL, SQLite, Firestore
 * **その他:** Git, GitHub, CI/CD, ソフトウェアアーキテクチャ, ソフトウェアテスト, UI/UX, アジャイル開発, プロジェクトマネジメント
+-->
