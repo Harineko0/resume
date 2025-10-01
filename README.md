@@ -1,8 +1,7 @@
 # 履歴書
 
-| - | - |
-| ---- | ---- |
 | 名前 | Suyama Sota (陶山 聡太) |
+| ---- | ---- |
 | メールアドレス | harineko0927@gmail.com |
 | GitHub | https://github.com/Harineko0 |
 | Linkedin | https://www.linkedin.com/in/sota-suyama-375a75302/ |
