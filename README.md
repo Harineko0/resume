@@ -32,7 +32,7 @@ After enrolling in the Department of Information Science, School of Engineering 
 | 2024/08-2025/03 | Ocarry, inc. | Mobile Engineer, Backend Engineer, UI Designer |
 | 2025/01-2025/05 | Gather, inc. | Mobile Engineer, Tech Lead |
 | 2025/03 | pixiv, inc. | Spring Intern, Backend Engineer |
-| 2025/08-2025/09 | LINE Yahoo Corporation | Summer Intern, Backend Engineer |
+| 2025/08-2025/09 | LY Corporation | Summer Intern, Backend Engineer |
 
 ### Osaka University, School of Engineering Science, Department of Information Science
 
