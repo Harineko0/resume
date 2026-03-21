@@ -1,76 +1,52 @@
-# 履歴書
+harineko0927@gmail.com | +81 090-4543-0572 | [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/sota-suyama-375a75302)
 
-## 要約
+## 教育
+**大阪大学 基礎工学部 情報科学科** | [span_0](start_span)[span_1](start_span)2023年4月 [span_0](end_span)[span_1](end_span)
+* **[span_2](start_span)[span_3](start_span)主要履修科目**: アルゴリズム、OS、コンピュータアーキテクチャ、ベイズ統計学、コンパイラ、情報理論[span_2](end_span)[span_3](end_span)
+* **[span_4](start_span)[span_5](start_span)受賞**: Outstanding GDG on Campus Organizer MVP (2025) – Googleよりリーダーシップを評価[span_4](end_span)[span_5](end_span)
+* **[span_6](start_span)[span_7](start_span)資格**: 応用情報技術者試験 (2024年12月合格)[span_6](end_span)[span_7](end_span)
 
-大阪大学基礎工学部情報科学科入学後, スタートアップ企業2社でモバイル・バックエンド開発を担当. 2025年3月にピクシブ株式会社のインターンに参加し, PHP及びTypeScriptでバックエンド開発に従事. 2025年8月から同年9月までLINEヤフー株式会社のインターンに参加し, ベイズ統計モデルを用いた予測モデルの構築とバックエンド開発に従事. コミュニティ活動として, 2024年9月から2025年8月まで Google Developer Group on Campus Osaka University (GDGoC Osaka) の代表として活動し, 技術イベントの開催及び開発プロジェクトのマネジメントを行う. Outstanding GDGoC Organizer MVP 受賞. 
+## スキル
+* **[span_51](start_span)[span_52](start_span)言語**: Java, C, Go, Python, TypeScript, Dart, PHP, C#, VHDL, SQL[span_51](end_span)[span_52](end_span)
+* **[span_53](start_span)[span_54](start_span)ツール/クラウド**: GCP, Firebase, Docker, Terraform, GitHub Actions, Linux (Debian系), Figma[span_53](end_span)[span_54](end_span)
+* **[span_55](start_span)[span_56](start_span)[span_57](start_span)ソフトスキル**: PRDおよびDesign Docを中心とした設計・ドキュメンテーション能力、プロジェクトマネジメント、Issue-driven開発[span_55](end_span)[span_56](end_span)[span_57](end_span)
 
-## 経験・スキル
+## 職務経歴
+**LINEヤフー株式会社** | SWEインターン (広告予算制御チーム) | [span_8](start_span)[span_9](start_span)[span_10](start_span)2025年8月 – 2025年9月[span_8](end_span)[span_9](end_span)[span_10](end_span)
+* [span_11](start_span)[span_12](start_span)[span_13](start_span)CV数を最大化するためのベイズ統計モデル（Python/CmdStan）を構築し、CV数を3.3%向上[span_11](end_span)[span_12](end_span)[span_13](end_span)
+* [span_14](start_span)予測の不確実性に対するセーフティフォールバックを実装し、広告費支出リスクを管理[span_14](end_span)
+* [span_15](start_span)[span_16](start_span)大規模な履歴ログを分析して事前知識をモデルに組み込み、高分散環境での精度を向上[span_15](end_span)[span_16](end_span)
 
-* React, Next.js によるフロントエンド開発  
-* TypeScript, Node.js, Java, PostgreSQL, oogle Cloud によるバックエンド開発  
-* Flutter によるモバイルアプリケーション開発  
-* Python, CmdStan によるベイズ統計モデル開発  
-* Debian 系 Linux サーバーのセットアップ経験  
-* Figma による UI デザイン経験  
-* GitHub Actions, Codemagic による CI/CD 設定経験  
-* モノリシックアーキテクチャの設計・開発経験  
-* 6名程度のチームのマネジメント経験
+**Gather, inc.** | テックリード / モバイルエンジニア | [span_17](start_span)[span_18](start_span)2025年1月 – 2026年1月[span_17](end_span)[span_18](end_span)
+* [span_19](start_span)[span_20](start_span)セルフホストランナーを用いたCI/CDの最適化により、統合テスト時間を84%（19分→3分）、分析時間を66%削減[span_19](end_span)[span_20](end_span)
+* [span_21](start_span)[span_22](start_span)マップ系推薦アプリのアーキテクチャをMVVMからRiverpodへ大規模にリファクタリングし、保守性を向上[span_21](end_span)[span_22](end_span)
 
-## 資格等
+**pixiv株式会社** | SWEインターン (認証基盤チーム) | [span_23](start_span)[span_24](start_span)2025年3月[span_23](end_span)[span_24](end_span)
+* [span_25](start_span)[span_26](start_span)WebAuthn Signal API（PHP/React）を認証プラットフォームに統合し、パスキー更新のUXを最適化[span_25](end_span)[span_26](end_span)
 
-| 取得時期 | 内容 |
-| :---- | :---- |
-| 2024/12 | 応用情報技術者試験 (IPA) |
+**Ocarry, inc.** | 創業メンバー (フルスタックエンジニア) | [span_27](start_span)[span_28](start_span)[span_29](start_span)2024年8月 – 2025年3月[span_27](end_span)[span_28](end_span)[span_29](end_span)
+* [span_30](start_span)[span_31](start_span)[span_32](start_span)荷物配達プラットフォームのデュアルアプリ（Flutter/Hono.js/GCP）をゼロから設計・開発[span_30](end_span)[span_31](end_span)[span_32](end_span)
+* [span_33](start_span)[span_34](start_span)Terraformを用いたインフラのコード化（IaC）を推進[span_33](end_span)[span_34](end_span)
 
-## 
+## テクニカルプロジェクト
+**GDGoC Japan Wiki**
+* 日本国内のGDGoCに関するGoogleドキュメント、Webサイト、テキスト情報をAIが自動的にWikiとして集約するプラットフォーム。
 
-## 経歴
+**Yarnie**
+* マッチングアプリ（開発中）。技術スタック：Flutter, Go, Terraform, Google Cloud。
 
-| 時期 | 所属 | 役割 |
-| :---- | :---- | :---- |
-| 2023/04-現在 | 大阪大学基礎工学部情報科学科 | 学生 |
-| 2024/01-2024/04 | Alpha+ Project | 学生 |
-| 2024/09-2025/08 | GDG on Campus Osaka | Organizer |
-| 2024/08-2025/03 | Ocarry, inc. | モバイルエンジニア, バックエンドエンジニア, UIデザイナー |
-| 2025/01-2025/05 | Gather,inc. | モバイルエンジニア, Tech Lead |
-| 2025/03 | ピクシブ株式会社 | 春インターン, バックエンドエンジニア |
-| 2025/08-2025/09 | LINEヤフー株式会社 | 夏インターン, バックエンドエンジニア |
+**システムプログラミング (Shell, Server)** | [span_35](start_span)[span_36](start_span)C言語[span_35](end_span)[span_36](end_span)
+* [span_37](start_span)[span_38](start_span)関数ポインタを用いたオブジェクト指向ライクなモジュール式シェル、およびファイル記述子マルチプレクシングによる多人数チャットサーバの開発[span_37](end_span)[span_38](end_span)
 
-### 大阪大学基礎工学部情報科学科
+**ネットワークインフラ (Minecraftサーバ)** | [span_39](start_span)Java, Linux[span_39](end_span)
+* [span_40](start_span)VDSL制限を回避するVPS-to-Homeトンネルの構築、およびルーティング最適化による遅延の解消[span_40](end_span)
+* [span_41](start_span)GitとGoogle Driveを連携させた自動DRパイプラインにより、データ可用性99%を実現[span_41](end_span)
 
-情報科学及びコンピュータサイエンスを専攻.
+**[span_42](start_span)オープンソース活動**[span_42](end_span)
+* **[span_43](start_span)more_visibility**: Dartのprotected修飾子用リンター[span_43](end_span)
+* **[span_44](start_span)[span_45](start_span)swap_worktree**: Git worktree管理用CLIツール[span_44](end_span)[span_45](end_span)
 
-コンピュータアーキテクチャ, アルゴリズム, ネットワーク, 情報理論など, 理論的な分野を学ぶ. 自主開発では, オセロAI(C言語), シェルスクリプトインタプリタ (C言語), 自作CPU (VHDL, FPGA)などを開発.
-
-### Google Developer Group on Campus Osaka University
-
-大阪大学のサークルである GDG on Campus Osaka の Organizer (代表者) を担当.
-
-現地参加者数 10\~50 人程度の技術系イベントの運営を主催した. イベントオーナーとして, 余裕のあるスケジューリング, スタッフへの役割分担, 関係者とのコミュニケーション, 当日のトラブル対応などを行う. 宣伝に必要なフライヤーのデザインもFigmaを用いて作成.
-
-また, サークル内で進行しているチーム開発プロジェクトをマネジメントした. 4\~6 人程度のチームについて, Design Doc を用いた企画,設計から Issue-driven 開発のタスク管理を行う. メンバーのスキルレベルを見ながら適切な粒度にタスクを分割し, 分割したタスクを作業をブロックしないようにアサインする方法を学ぶ.
-
-さらに, 技術系の知識を若いメンバーに伝えるため, 複数の勉強会で講義を担当し, Firebase, CI/CD, Webフロント/バックエンド全般などを解説.
-
-### LINEヤフー株式会社
-
-6週間の夏インターンに参加.
-
-ショッピング検索広告の予算制御チームに所属し, 広告予算制御アルゴリズムの改善提案として, CV数を最大化するように予算を制御するベイズ統計モデルを実装. 既存実装をドキュメントとコードを読みながら理解し, 収集したログデータを分析結果から CV 数最大化の戦略を選定. Web広告は不確実性の大きい分野であることに加え, 自身がゼミナールでベイズ統計を学んでいたことから, 不確実性を扱えるベイズ統計モデルの使用を決定した.
-
-モデル実装の前にデータを入念に基礎分析することや, まずはシンプルなモデルから実装することの重要性と, 大企業におけるタスクマネジメント手法と設計手法を学ぶ.
-
-### ピクシブ株式会社
-
-10日間の春インターンに参加.
-
-認証認可基盤チームに所属し, Web Authn Signal API をフロントエンドに実装. Web Authn Signal API の仕様を W3C のドキュメントや国内/海外のブログなどを参照して調査し, どの API をどう適用すべきかを決定.
-
-Signal API を呼び出すときのユーザーシナリオを考え, UXに配慮した実装となるようにメンターの方と議論し, 用いるAPIを取捨選択して実装に取り組む.
-
-### Ocarry, inc.
-
-スタートアップ企業で荷物配達アプリの開発を担当.
-
-PRD, Design Doc などによる設計から Flutter, Node.js による開発とリリースまで担当. エンジニアが自身一人だけの環境であったため, プロダクトオーナーとの要件のすり合わせに苦労しながら開発を実施  
-
+## リーダーシップ & 活動
+**GDG on Campus Osaka University** | オーガナイザー (代表) | [span_46](start_span)[span_47](start_span)2024年9月 – 2025年8月[span_46](end_span)[span_47](end_span)
+* [span_48](start_span)[span_49](start_span)50名以上のメンバーを管理し、Design DocとIssue-driven開発を用いた6名の開発チームのメンタリングを担当[span_48](end_span)[span_49](end_span)
+* [span_50](start_span)FirebaseやCI/CD、フロントエンド/バックエンド全般に関する勉強会で講師として登壇[span_50](end_span)
